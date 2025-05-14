@@ -57,8 +57,10 @@ Default CSS
 =================================================*/
 :root {
   --fontFamily: 'Lexend', sans-serif;
-  --mainColor: #2eca7f;
-  --secounderyColor: #F2F8F1;
+  --mainColor: #05ADEE;
+  --secounderyColor: #F0FAFD;
+  /* --mainColor: #2eca7f;
+  --secounderyColor: #F2F8F1;   */
   --paragraphColor: #7A7A7A;
   --paragraphColorSecond: #B9B9BA;
   --whiteColor: #ffffff;
@@ -4863,9 +4865,9 @@ Footer Area CSS
   padding: 20px 0;
 }
 
-.copy-right-area .cpr-left{
+/* .copy-right-area .cpr-left{
  
-}
+} */
 
 .copy-right-area .cpr-left p{
  color: var(--paragraphColorSecond);
@@ -5167,11 +5169,13 @@ Go Top CSS
 }
 .preloader-dot:nth-child(3) {
   animation-delay: 0.3s;
-  background: #2eca7f;
+  background: #05ADEE;
+  /* background: #2eca7f;   */
 }
 .preloader-dot:nth-child(4) {
   animation-delay: 0.4s;
-  background: #2eca7f;
+  background: #05ADEE;
+  /* background: #2eca7f; */
 }
 .preloader-dot:nth-child(5) {
   animation-delay: 0.5s;
