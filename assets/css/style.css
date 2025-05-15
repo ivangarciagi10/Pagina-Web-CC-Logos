@@ -404,7 +404,7 @@ Top Navbar Area CSS
 Banner Area CSS
 =================================================*/
 .big-bg-1{
-  background-image: url(../img/banner/Image.jpg);
+  background-image: url(../img/cc/banner/Image.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -4215,13 +4215,34 @@ Campus Tour Area CSS
   padding: 250px;
 }
 .campus-tour .image.cp-bg-1{
-  background-image: url(../img/all-img/campus-1.png);
+  background-image: url(../img/cc/all-img/service-1.jpeg);
 }
 .campus-tour .image.cp-bg-2{
-  background-image: url(../img/all-img/campus-2.png);
+  background-image: url(../img/cc/all-img/service-2.jpeg);
 }
 .campus-tour .image.cp-bg-3{
-  background-image: url(../img/all-img/campus-3.png);
+  background-image: url(../img/cc/all-img/service-3.jpeg);
+}
+.campus-tour .image.cp-bg-4{
+  background-image: url(../img/cc/all-img/service-4.jpeg);
+}
+.campus-tour .image.cp-bg-5{
+  background-image: url(../img/cc/all-img/service-5.jpeg);
+}
+.campus-tour .image.cp-bg-6{
+  background-image: url(../img/cc/all-img/service-6.jpeg);
+}
+.campus-tour .image.cp-bg-7{
+  background-image: url(../img/cc/all-img/service-7.jpeg);
+}
+.campus-tour .image.cp-bg-8{
+  background-image: url(../img/cc/all-img/service-8.jpeg);
+}
+.campus-tour .image.cp-bg-9{
+  background-image: url(../img/cc/all-img/service-9.jpeg);
+}
+.campus-tour .image.cp-bg-10{
+  background-image: url(../img/cc/all-img/service-10.jpeg);
 }
 
 /*================================================
