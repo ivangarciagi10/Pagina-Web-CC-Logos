@@ -4641,7 +4641,8 @@ Section Banner Area CSS
 }
 
 .section-banner.bg-20{
-  background-image: url(../img/banner/section-image-20.png);
+  background-image: url(../img/cc/banner/proyects-banner.jpg);
+  /* background-image: url(../img/banner/section-image-20.png); */
 }
 
 .section-banner.bg-21{
